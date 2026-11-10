@@ -1,6 +1,6 @@
 {
   "name": "gerarchia-tipografica-impaginazione",
-  "description": "Rivede la gerarchia visiva di pagine già scritte secondo il significato dei testi, conservando ciò che funziona.",
+  "description": "Reorganizes a page's visual hierarchy by the meaning of its texts, with the smallest change that helps reading. Use when an already written page blurs quotes, notes and sections or misplaces emphasis.",
   "author": {
     "name": "Tiziano Boccaccini"
   },
