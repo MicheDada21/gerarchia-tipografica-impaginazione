@@ -4,7 +4,7 @@ description: "Reorganizes a page's visual hierarchy by the meaning of its texts,
 disable-model-invocation: true
 ---
 
-# Gerarchia editoriale e impaginazione
+# Gerarchia tipografica impaginazione
 
 Leggi il contenuto come un curatore editoriale. Fai dipendere l'impaginazione dal significato e conserva gli elementi che già funzionano.
 
