@@ -1,5 +1,5 @@
 ---
-name: gerarchia-editoriale-impaginazione
+name: gerarchia-tipografica-impaginazione
 description: "Rivede la gerarchia visiva di pagine già scritte secondo il significato dei testi, conservando ciò che funziona."
 disable-model-invocation: true
 ---

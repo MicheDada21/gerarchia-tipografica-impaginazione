@@ -1,10 +1,10 @@
 {
-  "name": "gerarchia-editoriale-impaginazione",
+  "name": "gerarchia-tipografica-impaginazione",
   "description": "Rivede la gerarchia visiva di pagine già scritte secondo il significato dei testi, conservando ciò che funziona.",
   "author": {
     "name": "Tiziano Boccaccini"
   },
-  "homepage": "https://www.cryptohelvetia.com/ch-labs/prompt-library/skills/gerarchia-editoriale-impaginazione",
-  "repository": "https://github.com/MicheDada21/gerarchia-editoriale-impaginazione",
+  "homepage": "https://www.cryptohelvetia.com/ch-labs/prompt-library/skills/gerarchia-tipografica-impaginazione",
+  "repository": "https://github.com/MicheDada21/gerarchia-tipografica-impaginazione",
   "license": "MIT"
 }
